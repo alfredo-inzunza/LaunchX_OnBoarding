@@ -3,7 +3,7 @@ Repositorio del OnBoarding para el programa LaunchX
 Incluye las prácticas realizadas en cada módulo del Onboarding
 
 ## Contenido
-Módulo 0 - Preparación del entorno de trabajo (**Done**)   
+[Módulo 0 - Preparación del entorno de trabajo](Modulo_0/)  
 Módulo 1 - Primeros pasos  
 Módulo 2 - Crear y administrar proyectos  
 Módulo 3 - Usar lógica booleana  
