@@ -6,8 +6,8 @@ Incluye las prácticas realizadas en cada módulo del Onboarding
 [Módulo 0 - Preparación del entorno de trabajo](Modulo_0/)  
 [Módulo 1 - Primeros pasos](Modulo_1/)  
 [Módulo 2 - Crear y administrar proyectos](Modulo_2/)  
-Módulo 3 - Usar lógica booleana  
-Módulo 4 - Cadenas  
+[Módulo 3 - Usar lógica booleana](Modulo_3/)  
+[Módulo 4 - Cadenas](Modulo_4/)  
 Módulo 5 - Usar operaciones matemáticas  
 Módulo 6 - Introducción a las listas  
 Siguientes módulos en proceso
